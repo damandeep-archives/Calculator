@@ -1,0 +1,54 @@
+.container{
+    text-align: center;
+    margin-top: 20px;
+    
+    font-family: 'Yusei Magic', sans-serif;
+   
+    
+    
+    
+}
+
+body{
+    background-color: rgb(23, 226, 192);
+}
+
+h1{
+    color: rgb(12, 35, 36);
+    
+}
+input{
+    font-size: 25px;
+    width: 374px;  
+    height: 50px;
+    margin-bottom: 4px;  
+}
+
+button{
+    display: flex;
+    
+    font-size: 49px ;
+    justify-content:center;
+    text-align: center;
+    width: 90px;
+    margin: 3px;
+    border: 2px solid black;
+    background-color:rgb(201, 248, 219);
+    border-radius: 3px;
+   
+    
+    
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+#table{
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
